@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value = ""/>
+
+    <version value = "1"/>
+
+    <list>
+        <mapping class = "com.example.ptrcoolweather.android.db.Province"/>
+        <mapping class="com.example.ptrcoolweather.android.db.City" />
+        <mapping class="com.example.ptrcoolweather.android.db.County" />
+
+    </list>
+
+</litepal>
